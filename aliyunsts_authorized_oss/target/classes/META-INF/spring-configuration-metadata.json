@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "aliyun",
+      "type": "wang.snalc.stsossaliyun.configuration.AliSTSConfiguration",
+      "sourceType": "wang.snalc.stsossaliyun.configuration.AliSTSConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.access-key-id",
+      "type": "java.lang.String",
+      "description": "阿里云授权账号的accessKeyId",
+      "sourceType": "wang.snalc.stsossaliyun.configuration.AliSTSConfiguration"
+    },
+    {
+      "name": "aliyun.access-key-secret",
+      "type": "java.lang.String",
+      "description": "阿里云授权账号的accessKeySecret",
+      "sourceType": "wang.snalc.stsossaliyun.configuration.AliSTSConfiguration"
+    },
+    {
+      "name": "aliyun.role-arn",
+      "type": "java.lang.String",
+      "description": "阿里云授权账号的roleArn",
+      "sourceType": "wang.snalc.stsossaliyun.configuration.AliSTSConfiguration"
+    }
+  ],
+  "hints": []
+}

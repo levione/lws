@@ -1,0 +1,5 @@
+swagger:
+  description: oss临时密钥
+  authorization:
+    key-name: token
+  version: 1.1

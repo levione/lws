@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    include: jpa,spring,swagger,aliyun
+  banner:
+    charset: UTF-8
+  messages:
+    encoding: UTF-8
+server:
+  servlet:
+    session:
+      timeout: 30m
+    encoding:
+      charset: utf-8

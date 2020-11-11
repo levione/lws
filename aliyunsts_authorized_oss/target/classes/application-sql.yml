@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    hikari:
+      readOnly: false
+      connectionTimeout: 60000
+      idleTimeout: 60000
+      validationTimeout: 3000
+      maxLifetime: 60000
+      loginTimeout: 5
+      maximumPoolSize: 60
+      minimumIdle: 10
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: ipanda666
+    url: jdbc:mysql://kinto-dev-1-db-1-instance-1.c2zz5rf04l1x.ap-northeast-1.rds.amazonaws.com:3306/cognito_tokyo?autoReconnect=true&useUnicode=true&characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Tokyo
+    username: admin
+swagger:
+  enabled: true
+server:
+  port: 8080

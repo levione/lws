@@ -1,0 +1,7 @@
+aliyun:
+  #临时授权访问id
+  accessKeyId: LTAI4G4cmHoGcFQrJdApC68t
+  #临时授权访问密钥
+  accessKeySecret: 3Jo2JaguTqQFNDpLwQcHy0ZhoRaMkK
+  #临时授权角色ARN
+  roleArn: acs:ram::1671492361608297:role/aliyunosstokengeneratorrole

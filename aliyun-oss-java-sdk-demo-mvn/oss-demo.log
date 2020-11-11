@@ -1,0 +1,134 @@
+2018-06-26 11:22:43,055 INFO com.aliyun.oss.demo.HelloOSS: Started
+2018-06-26 11:22:43,685 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2018-06-26 11:23:18,219 INFO com.aliyun.oss.demo.HelloOSS: Started
+2018-06-26 11:23:19,385 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2018-06-28 10:14:51,797 INFO com.aliyun.oss.demo.HelloOSS: Started
+2018-06-28 10:14:53,449 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2020-11-10 09:36:55,252 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 09:38:07,120 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 09:38:27,508 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 09:38:28,586 WARN com.aliyun.oss: [Server]Unable to execute HTTP request: 返回结果无效，无法解析。
+[ErrorCode]: InvalidResponse
+[RequestId]: 5FA9EF13D6D4393338A7C06C
+[HostId]: null
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>5FA9EF13D6D4393338A7C06C</RequestId>
+  <HostId>italy.oss-cn-beijing.aliyuncs.com</HostId>
+</Error>
+
+2020-11-10 09:38:28,786 WARN com.aliyun.oss: [Server]Unable to execute HTTP request: 返回结果无效，无法解析。
+[ErrorCode]: InvalidResponse
+[RequestId]: 5FA9EF14D6D4393338B0C26C
+[HostId]: null
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>5FA9EF14D6D4393338B0C26C</RequestId>
+  <HostId>italy.oss-cn-beijing.aliyuncs.com</HostId>
+</Error>
+
+2020-11-10 09:38:28,788 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2020-11-10 09:44:34,004 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 09:44:38,485 WARN com.aliyun.oss: [Server]Unable to execute HTTP request: 返回结果无效，无法解析。
+[ErrorCode]: InvalidResponse
+[RequestId]: 5FA9F0853218A13335C14648
+[HostId]: null
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>5FA9F0853218A13335C14648</RequestId>
+  <HostId>italy.oss-cn-beijing.aliyuncs.com</HostId>
+</Error>
+
+2020-11-10 09:44:38,680 WARN com.aliyun.oss: [Server]Unable to execute HTTP request: 返回结果无效，无法解析。
+[ErrorCode]: InvalidResponse
+[RequestId]: 5FA9F0853218A133355B4848
+[HostId]: null
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>5FA9F0853218A133355B4848</RequestId>
+  <HostId>italy.oss-cn-beijing.aliyuncs.com</HostId>
+</Error>
+
+2020-11-10 09:44:38,682 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2020-11-10 09:45:39,565 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 09:45:40,971 WARN com.aliyun.oss: [Server]Unable to execute HTTP request: 返回结果无效，无法解析。
+[ErrorCode]: InvalidResponse
+[RequestId]: 5FA9F0C49849B43535AD1047
+[HostId]: null
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>InvalidBucketName</Code>
+  <Message>The specified bucket is not valid.</Message>
+  <RequestId>5FA9F0C49849B43535AD1047</RequestId>
+  <HostId>italy.italy.oss-cn-beijing.aliyuncs.com</HostId>
+  <BucketName>italy.italy</BucketName>
+</Error>
+
+2020-11-10 09:45:41,165 WARN com.aliyun.oss: [Server]Unable to execute HTTP request: 返回结果无效，无法解析。
+[ErrorCode]: InvalidResponse
+[RequestId]: 5FA9F0C49849B43535301247
+[HostId]: null
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>InvalidBucketName</Code>
+  <Message>The specified bucket is not valid.</Message>
+  <RequestId>5FA9F0C49849B43535301247</RequestId>
+  <HostId>italy.italy.oss-cn-beijing.aliyuncs.com</HostId>
+  <BucketName>italy.italy</BucketName>
+</Error>
+
+2020-11-10 09:45:41,167 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2020-11-10 09:51:03,559 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 09:51:05,992 WARN com.aliyun.oss: [Server]Unable to execute HTTP request: 返回结果无效，无法解析。
+[ErrorCode]: InvalidResponse
+[RequestId]: 5FA9F209DAD5753334878389
+[HostId]: null
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>5FA9F209DAD5753334878389</RequestId>
+  <HostId>italy.oss-cn-beijing.aliyuncs.com</HostId>
+</Error>
+
+2020-11-10 09:51:06,180 WARN com.aliyun.oss: [Server]Unable to execute HTTP request: 返回结果无效，无法解析。
+[ErrorCode]: InvalidResponse
+[RequestId]: 5FA9F209DAD5753334378589
+[HostId]: null
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you access does not belong to you.</Message>
+  <RequestId>5FA9F209DAD5753334378589</RequestId>
+  <HostId>italy.oss-cn-beijing.aliyuncs.com</HostId>
+</Error>
+
+2020-11-10 09:51:06,184 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2020-11-10 09:54:08,624 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 09:54:11,730 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2020-11-10 10:09:38,899 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 10:10:00,334 WARN com.aliyun.oss: [Client]Unable to execute HTTP request: SocketException
+2020-11-10 10:10:01,982 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2020-11-10 10:29:37,311 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 10:29:58,603 WARN com.aliyun.oss: [Client]Unable to execute HTTP request: SocketException
+2020-11-10 10:30:00,349 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2020-11-10 13:53:29,799 INFO com.aliyun.oss.demo.HelloOSS: Started
+2020-11-10 13:53:51,371 WARN com.aliyun.oss: [Client]Unable to execute HTTP request: SocketException
+2020-11-10 13:54:11,851 WARN com.aliyun.oss: [Client]Unable to execute HTTP request: SocketException
+2020-11-10 13:54:14,119 INFO com.aliyun.oss.demo.HelloOSS: Completed

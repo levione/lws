@@ -1,0 +1,17 @@
+spring:
+  banner:
+    charset: UTF-8
+#  datasource:
+#    type: com.zaxxer.hikari.HikariDataSource
+  jackson:
+    time-zone: GMT+8
+    serialization:
+      FAIL_ON_EMPTY_BEANS: false
+  messages:
+    encoding: UTF-8
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
